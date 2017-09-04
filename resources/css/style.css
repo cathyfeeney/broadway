@@ -7,7 +7,7 @@ h1 { font-size: 70px;
 font-weight: bold;
 color: white;
 }
-ul.nav {list-style-type: none;
+#nav {list-style-type: none;
   font-family: helvetica;
   font size: 18px;
 }
@@ -21,7 +21,9 @@ font-weight: bold;}
 h3 {font-size: 23px;}
 h5 {font-size: 14px;}
 
-nav {display:inline-block;}
+#footer li {list-style-type: none;
+ display: inline-block;}
 
-div.footer{background-color: gray;
+
+#footer {background-color: gray;
 }
