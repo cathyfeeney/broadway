@@ -21,9 +21,15 @@ font-weight: bold;}
 h3 {font-size: 23px;}
 h5 {font-size: 14px;}
 
+p {position:relative;}
+
 #footer li {list-style-type: none;
- display: inline-block;}
+ display:inline;
+ text-align: left;
+ font-family: helvetica;
+ font-size: 14px;
 
-
+}
 #footer {background-color: gray;
+  width:100%;
 }
